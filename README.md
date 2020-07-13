@@ -12,6 +12,7 @@ The project is to implement a Spam Filter with the help of a ML classifier which
 	URL: http://spamassassin.apache.org/old/publiccorpus/ 
 
 2. Check Project proposal for detailed implementation
+	URL: https://github.com/hikingbloke/project-email-spam/blob/master/proposal.pdf
 
 ### The Project uses following libraries
 
